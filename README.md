@@ -26,8 +26,8 @@ This project converts audio files into concise text summaries using machine lear
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/audio-to-text-summarization.git
-   cd audio-to-text-summarization
+   git clone https://github.com/yourusername/Audio-to-Text-Summarization-with-ML-NLP.git
+   cd Audio-to-Text-Summarization-with-ML-NLP
    ```
 
 2. Install the required libraries:
